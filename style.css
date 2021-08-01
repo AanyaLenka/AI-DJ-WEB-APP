@@ -1,0 +1,36 @@
+#dj1
+{
+width:200px;
+}
+
+#dj2
+{
+width: 200px;
+float:right;
+}
+
+.mainbutton
+{
+width:100px;
+font-size:20px;
+}
+
+body
+{
+background-image:url('background.jpg');
+background-size: cover;
+background-position: center;
+}
+
+#note
+{
+font-family: monospace;
+color: aliceblue;
+}
+
+canvas 
+{
+border:3px solid lightcoral;
+border-radius:20px;
+margin-top: 200px;
+}
